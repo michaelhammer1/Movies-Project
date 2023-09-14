@@ -55,9 +55,3 @@ For any additional details or questions regarding this analysis, please contact 
 ## **Additional Materials
 
 Please review our full analysis in our [Jupyter Notebook](https://github.com/serbinaekaterinai/Movies-Project/blob/main/Untitled.ipynb) or our [presentation](https://github.com/serbinaekaterinai/Movies-Project/blob/main/Movie%20Presentation%20Katya%2C%20Jacob%2C%20Michael.pdf) .
-## Authors
-
-- [@EkaterinaSerbina](https://github.com/serbinaekaterinai)
-- [@MichaelHammer]()
-- [@JacobSerfaty]()
-
