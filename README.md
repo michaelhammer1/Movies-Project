@@ -11,7 +11,7 @@ Welcome to the BRIGHTSPOT Movie Production roadmap for diving into the film worl
 
 ### **1. Genres that Shine**
 - **Recommendation:** Focus your efforts on *Mystery*, *Horror*, and *Thriller* movie genres. These genres have shown a consistent pattern of delivering high ROI.
-![graph1](/Users/katyaserbina/Documents/Flatiron/Phase2-Project/Movies-Project/images/Screenshot 2023-09-14 at 10.39.28 AM.png)
+![graph1](https://github.com/serbinaekaterinai/Movies-Project/blob/main/images/Screenshot%202023-09-14%20at%2010.39.28%20AM.png)
 
 
 ### **2. Optimal Movie Length**
@@ -19,14 +19,14 @@ Welcome to the BRIGHTSPOT Movie Production roadmap for diving into the film worl
 - **Exceptions:** 
     - Short films (around 85 mins) often gain traction in film festivals, which can significantly boost their popularity and returns.
     - Movies in genres like Epic Fantasies, Historical Dramas, and Complex Thrillers might require longer runtimes (around 135 mins) to properly narrate the story.
-![graph2](./Users/katyaserbina/Documents/Flatiron/Phase2-Project/Movies-Project/images/Screenshot 2023-09-14 at 10.50.59 AM.png)
+![graph2](https://github.com/serbinaekaterinai/Movies-Project/blob/main/images/Screenshot%202023-09-14%20at%2010.50.59%20AM.png)
 
 ### **3. Budget Sweet Spot**
 - **Recommendation:** Invest primarily in movies with budgets in the range of *$5 million to $20 million*.
 - **Risk Mitigation:** Consider producing a few lower-budget films (<$5 million). They have the potential to become surprise hits with reduced production risks.
-![graph3](./Users/katyaserbina/Documents/Flatiron/Phase2-Project/Movies-Project/images/Screenshot 2023-09-14 at 10.51.08 AM.png)
+![graph3](https://github.com/serbinaekaterinai/Movies-Project/blob/main/images/Screenshot%202023-09-14%20at%2010.51.08%20AM.png)
 - **Insight:** A weak negative correlation was observed between production budgets and ROI. This indicates that simply increasing the production budget does not guarantee a proportionally higher ROI.
-![graph4](./Users/katyaserbina/Documents/Flatiron/Phase2-Project/Movies-Project/images/Screenshot 2023-09-14 at 10.51.22 AM.png)
+![graph4](https://github.com/serbinaekaterinai/Movies-Project/blob/main/images/Screenshot%202023-09-14%20at%2010.51.22%20AM.png)
 
 ### **4. Characteristics of a Successful Movie**
 To optimize for success, aim for movies that meet the following criteria:
