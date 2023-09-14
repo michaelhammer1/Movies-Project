@@ -1,4 +1,4 @@
-# Movies-Project
+
 
 Authors: [Katya Serbina](https://github.com/serbinaekaterinai), [Michael Hammer](https://github.com/michaelhammer1) & [Jacob Serfaty](https://github.com/jacobserfaty)
 
