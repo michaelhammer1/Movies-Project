@@ -11,7 +11,7 @@ Welcome to the BRIGHTSPOT Movie Production roadmap for diving into the film worl
 
 ### **1. Genres that Shine**
 - **Recommendation:** Focus your efforts on *Mystery*, *Horror*, and *Thriller* movie genres. These genres have shown a consistent pattern of delivering high ROI.
-![graph1](./Users/katyaserbina/Documents/Flatiron/Phase2-Project/Movies-Project/images/Screenshot 2023-09-14 at 10.39.28 AM.png)
+![graph1](/Users/katyaserbina/Documents/Flatiron/Phase2-Project/Movies-Project/images/Screenshot 2023-09-14 at 10.39.28 AM.png)
 
 
 ### **2. Optimal Movie Length**
