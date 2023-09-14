@@ -26,7 +26,7 @@ Welcome to the BRIGHTSPOT Movie Production roadmap for diving into the film worl
 - **Risk Mitigation:** Consider producing a few lower-budget films (<$5 million). They have the potential to become surprise hits with reduced production risks.
 ![graph3](https://github.com/serbinaekaterinai/Movies-Project/blob/main/images/Screenshot%202023-09-14%20at%2011.35.51%20AM.png)
 - **Insight:** A weak negative correlation was observed between production budgets and ROI. This indicates that simply increasing the production budget does not guarantee a proportionally higher ROI.
-![graph4](https://github.com/serbinaekaterinai/Movies-Project/blob/main/images/Screenshot%202023-09-14%20at%2010.51.22%20AM.png)
+![graph4](https://github.com/serbinaekaterinai/Movies-Project/blob/main/images/Screenshot%202023-09-14%20at%2011.37.53%20AM.png)
 
 ### **4. Characteristics of a Successful Movie**
 To optimize for success, aim for movies that meet the following criteria:
