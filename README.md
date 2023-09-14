@@ -56,7 +56,7 @@ For any additional details or questions regarding this analysis, please contact 
 
 ## **Additional Materials
 
-Please review our full analysis in our [Jupyter Notebook]() or our [presentation]() .
+Please review our full analysis in our [Jupyter Notebook](https://github.com/serbinaekaterinai/Movies-Project/blob/main/Untitled.ipynb) or our [presentation]() .
 ## Authors
 
 - [@EkaterinaSerbina](https://github.com/serbinaekaterinai)
