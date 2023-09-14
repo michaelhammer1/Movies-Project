@@ -24,7 +24,7 @@ Welcome to the BRIGHTSPOT Movie Production roadmap for diving into the film worl
 ### **3. Budget Sweet Spot**
 - **Recommendation:** Invest primarily in movies with budgets in the range of *$5 million to $20 million*.
 - **Risk Mitigation:** Consider producing a few lower-budget films (<$5 million). They have the potential to become surprise hits with reduced production risks.
-![graph3](https://github.com/serbinaekaterinai/Movies-Project/blob/main/images/Screenshot%202023-09-14%20at%2010.51.08%20AM.png)
+![graph3](https://github.com/serbinaekaterinai/Movies-Project/blob/main/images/Screenshot%202023-09-14%20at%2011.35.51%20AM.png)
 - **Insight:** A weak negative correlation was observed between production budgets and ROI. This indicates that simply increasing the production budget does not guarantee a proportionally higher ROI.
 ![graph4](https://github.com/serbinaekaterinai/Movies-Project/blob/main/images/Screenshot%202023-09-14%20at%2010.51.22%20AM.png)
 
