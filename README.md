@@ -15,10 +15,9 @@ Welcome to the BRIGHTSPOT Movie Production roadmap for diving into the film worl
 
 
 ### **2. Optimal Movie Length**
-- **Recommendation:** Target a runtime of *108-120 minutes* for the best chances of a high ROI. It aligns well with the average audience's attention span and allows for more showings per day in theaters.
-- **Exceptions:** 
-    - Short films (around 85 mins) often gain traction in film festivals, which can significantly boost their popularity and returns.
-    - Movies in genres like Epic Fantasies, Historical Dramas, and Complex Thrillers might require longer runtimes (around 135 mins) to properly narrate the story.
+- **Recommendation:** Upon analyzing a dataset of numerous films across various genres, budgets, and release dates, we found a trend: movies that have a runtime between 109 to 130 minutes generally yield a higher ROI.
+- There could be several reasons for this. For instance, a movie length between 109 to 130 minutes can be both engaging and comprehensive without being overly long, leading to positive audience reception and repeated viewings. Such a duration is also favorable for theaters as it allows for multiple showings in a day without exhausting audiences.
+
 ![graph2](https://github.com/serbinaekaterinai/Movies-Project/blob/main/images/Screenshot%202023-09-14%20at%2010.50.59%20AM.png)
 
 ### **3. Budget Sweet Spot**
@@ -36,7 +35,7 @@ To optimize for success, aim for movies that meet the following criteria:
 
 ## **Strategic Considerations**
 
-- **Genre Influence:** Movies with over 20% ROI typically belong to the Mystery, Horror, and Thriller genres.
+- **Genre Influence:** Movies with over 20% ROI typically belong to the Mystery, Horror, Fantasy and Thriller genres.
   
 - **Budgeting Insights:** While higher budgets might enhance production quality, they don't necessarily promise higher returns. A balanced portfolio approach is recommended.
 
