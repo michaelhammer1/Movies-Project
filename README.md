@@ -11,21 +11,22 @@ Welcome to the BRIGHTSPOT Movie Production roadmap for diving into the film worl
 
 ### **1. Genres that Shine**
 - **Recommendation:** Focus your efforts on *Mystery*, *Horror*, and *Thriller* movie genres. These genres have shown a consistent pattern of delivering high ROI.
-![graph1](https://github.com/serbinaekaterinai/Movies-Project/blob/main/images/Screenshot%202023-09-14%20at%2010.39.28%20AM.png)
+![graph1](https://github.com/serbinaekaterinai/Movies-Project/blob/main/images/Screenshot%202023-09-14%20at%205.02.35%20PM.png)
+![graph5](https://github.com/serbinaekaterinai/Movies-Project/blob/main/images/Screenshot%202023-09-14%20at%205.02.47%20PM.png)
 
 
 ### **2. Optimal Movie Length**
 - **Recommendation:** Upon analyzing a dataset of numerous films across various genres, budgets, and release dates, we found a trend: movies that have a runtime between 109 to 130 minutes generally yield a higher ROI.
 - There could be several reasons for this. For instance, a movie length between 109 to 130 minutes can be both engaging and comprehensive without being overly long, leading to positive audience reception and repeated viewings. Such a duration is also favorable for theaters as it allows for multiple showings in a day without exhausting audiences.
 
-![graph2](https://github.com/serbinaekaterinai/Movies-Project/blob/main/images/Screenshot%202023-09-14%20at%2010.50.59%20AM.png)
+![graph2](https://github.com/serbinaekaterinai/Movies-Project/blob/main/images/Screenshot%202023-09-14%20at%205.03.00%20PM.png)
 
 ### **3. Budget Sweet Spot**
 - **Recommendation:** Invest primarily in movies with budgets in the range of *$5 million to $20 million*.
 - **Risk Mitigation:** Consider producing a few lower-budget films (<$5 million). They have the potential to become surprise hits with reduced production risks.
-![graph3](https://github.com/serbinaekaterinai/Movies-Project/blob/main/images/Screenshot%202023-09-14%20at%2011.35.51%20AM.png)
+![graph3](https://github.com/serbinaekaterinai/Movies-Project/blob/main/images/Screenshot%202023-09-14%20at%205.04.32%20PM.png)
 - **Insight:** A weak negative correlation was observed between production budgets and ROI. This indicates that simply increasing the production budget does not guarantee a proportionally higher ROI.
-![graph4](https://github.com/serbinaekaterinai/Movies-Project/blob/main/images/Screenshot%202023-09-14%20at%2011.37.53%20AM.png)
+![graph4](https://github.com/serbinaekaterinai/Movies-Project/blob/main/images/Screenshot%202023-09-14%20at%205.04.03%20PM.png)
 
 ### **4. Characteristics of a Successful Movie**
 To optimize for success, aim for movies that meet the following criteria:
